@@ -1,0 +1,13 @@
+.question {
+	margin-left: 30px;
+	margin-bottom: 50px;
+}
+
+.jumbotron{
+	width: 100%;
+	position: fixed;
+}
+
+.quiz{
+	padding-top: 260px;
+}
